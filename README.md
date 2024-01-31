@@ -1,5 +1,5 @@
 # DeepLearning-Assignments
-1. From the Perceptron to DNN
+1. From the Perceptron to FNN
 
 Begin with grasping the concept of a simple perceptron and progress towards constructing a fundamental feedforward neural network for classifying digits using Python and NumPy.
 
